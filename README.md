@@ -17,75 +17,6 @@ Deverão ser destaques a segurança e desempenho da aplicação.
 
 Baseado no modelo de Aprendizado Por Projeto, nossa equipe trabalha para entregar uma solução operante para uma empresa parceira - Jet Soft - com o apoio do Docente desta instituição de ensino superior.
 
-
-Navegue entre as seções
-=================
-<!--ts-->
-   * [Proposta comercial](#proposta-comercial)
-   * [Descrição do Projeto](#descricao-do-projeto)
-   * [Navegue entre as seções](#navegue-entre-as-secoes)
-   * [Status do Projeto](#status-do-projeto)
-   * [Features](#features)
-   * [Entregas](#entregas)
-   * [Requisitos](#requisitos)
-      * [Funcionais](#funcionais)
-      * [Não Funcionais](#nao-funcionais)
-   * [User Stories](#user-stories)
-   * [Banco de dados: Modelo relacional](#banco-de-dados)
-   * [Banco de dados: Diagrama Lógico](#banco-de-dados)
-      * [Propostas de inovação](#proposta-de-inovacao)
-   * [Backlog do projeto](#backlog-do-projeto)
-      * [Sprint 00](#sprint-00)
-      * [Sprint 01](#sprint-01)
-      * [Sprint 02](#sprint-02)
-      * [Sprint 03](#sprint-03)
-      * [Sprint 04](#sprint-04)
-   * [Equipe](#equipe)
-   * [Como Instalar o Projeto na Máquina](#como-instalar-o-projeto-na-maquina)
-   * [Tecnologias](#tecnologias)
-<!--te-->
-
-## Status do projeto
-
-<h4 align="center"> 
-	Job Nation  SPRINT 02 - 18/ABR/2021 = OK; 
-	
-</h4>
-
-## Features
-
-- [x] Diagrama-Base da JOBNATION
-![01-APPLICATION-FULL-](/uploads/089115b4466546461e51ac523f68da27/01-APPLICATION-FULL-.png)
-
-- [x]  API JOBNATION
-![02-JN-API](/uploads/7d566f3198f060ba024b3ef4a03fa626/02-JN-API.png)
-
-
-- [x] JOBNATION's DATABASE
-
-![03-JN-DB](/uploads/e22f22f0c02b924bf06d0aef1a8c14ff/03-JN-DB.png)
-
-- [x]  BANCO DE DADOS JOBNATION - PEQUISA CANDIDATO POR DISTÂNCIA
-
-![07-LAT-LONG-PROCEDURE-W-QUERY](/uploads/033a931cb97772d18addc21209037ac3/07-LAT-LONG-PROCEDURE-W-QUERY.mp4)
-
-- [x] APLICAÇÃO JOBNATION FUCIONANDO
-
-![06-SPRINT-01-BK-END](/uploads/226f36a4bda28a6333393d012525ad17/06-SPRINT-01-BK-END.mp4)
-
-- [x]  BONUS-ENTENDENDO A API (Visão de front-end)
-
-![BONUS-FEND-EMULATION](/uploads/65e04f805ea0972f0f8161f50f0d0395/BONUS-FEND-EMULATION.mp4)
-
-## Entregas
-
-| Sprint | Data  | Vídeo                                       |
-|--------|-------|---------------------------------------------|
-| 1      | 28/03 |----(no video for this sprint)---------------|
-| 2      | 18/04 |--![APRESENTACAO-SPRINT-02](/uploads/473105bcdf168d7dbe708defdb127857/APRESENTACAO-SPRINT-02.mp4)--|
-| 3      | 16/05 |---------------------------------------------|
-| 4      | 05/06 |---------------------------------------------|
-
 ## Requisitos
 
 #### Funcionais
@@ -118,13 +49,6 @@ Navegue entre as seções
 | API de Terceiros | Fornece critérios de busca | Quer  processo de recrutamento em massa
 | Jet Soft | Disponibiliza JOBNATION aos seus clientes (terceiros) | Velocidade |
 | Tecno Code | Desenvolve a JOBNATION | Para aplicar na prática os conhecimentos de programação adquiridos, além de adquirir experiência profissional em desenvolvimento de projetos |
-
-## Banco de dados
-##DIAGRAMA ENTIDADE-RELACIONAMENTO
-![04-DER-SPRINT-02-](/uploads/43ab9dae9c03891562a4f95a384b60f7/04-DER-SPRINT-02-.png)
-
-## DIAGRAMA LÓGICO
-![05-LOGICAL-SPRINT-02-](/uploads/80221f57c968b73183896074cca9503a/05-LOGICAL-SPRINT-02-.png)
 
 
 ## Propostas de inovação
